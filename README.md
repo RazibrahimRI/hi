@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **raziibrahim123@gmail.com**
 
+- All My Certificates are in [https://drive.google.com/drive/folders/1vcPkIf405izSymSm9pDEiOcc9ZyJ2eI2?usp=drive_link](https://drive.google.com/drive/folders/1vcPkIf405izSymSm9pDEiOcc9ZyJ2eI2?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/razi-ibrahim-773859204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/razi-ibrahim-773859204" height="30" width="40" /></a>
